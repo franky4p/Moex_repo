@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Realm",
+        "repositoryURL": "https://github.com/realm/realm-cocoa.git",
+        "state": {
+          "branch": null,
+          "revision": "7ec5df0a700ef76ad930dcedb9c63c1b354979e1",
+          "version": "5.5.1"
+        }
+      },
+      {
+        "package": "RealmCore",
+        "repositoryURL": "https://github.com/realm/realm-core",
+        "state": {
+          "branch": null,
+          "revision": "66d79b3c5213fb14d491c1b22193077b488d49a6",
+          "version": "6.2.4"
+        }
+      },
+      {
+        "package": "RuntimeNew",
+        "repositoryURL": "https://github.com/arturdev/RuntimeNew.git",
+        "state": {
+          "branch": null,
+          "revision": "39c7cf5b9a683c2dff931352617101304d283ad6",
+          "version": "2.1.7"
+        }
+      },
+      {
+        "package": "Unrealm",
+        "repositoryURL": "https://github.com/arturdev/Unrealm.git",
+        "state": {
+          "branch": "SPM",
+          "revision": "4298e6cd956b4915d83a65f1fe946c062ff53c9a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
